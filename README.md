@@ -19,7 +19,7 @@ Download the repo, npm install dependencies and run it locally.
 Tracking day to day expenses, using it to compare spending habits.
 
 ### Screenshot:
-![Image]public/images/budget.PNG)
+![Image](public/images/budget.PNG)
 <br />
 <br />
 GitHib Link: bartok1945@github.com <br /><br />
